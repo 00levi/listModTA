@@ -1,0 +1,148 @@
+[
+    {
+        "id": 1,
+        "animeId": "Hulk-vs",
+        "title": "Hulk vs ... (Español Latino)",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/86bdaff754999d42ce51a4318765ce93f2413d4ba51d5412b45d1f31366099fe.jpg",
+        "description": "Hulk se enfrenta a thor y wolverine.",
+        "type": "Anime",
+        "episodes": [
+        {
+            "episodeNumber": 1,
+            "title": "Hulk vs Thor",
+            "url": "https://ia804606.us.archive.org/5/items/4-5769455918341163614/Hulk_vs_thor_espa%C3%B1ol.ia.mp4"
+        },
+        {
+            "episodeNumber": 2,
+            "title": "Hulk vs Wolverine",
+            "url": "https://ia804606.us.archive.org/5/items/4-5769455918341163614/4_5769455918341163614.ia.mp4"
+        }
+        ]
+    },
+    {
+        "id": 2,
+        "animeId": "Chainsaw-Man-Latino",
+        "title": "Chainsaw Man Latino",
+        "image": "https://images-cdn.ubuy.com.ar/63850479f1aad178ea2fbe42-chainsaw-man-poster-print-october-2022.jpg",
+        "description": "un joven muere y su mascota con una sierra en la cabeza lo salva ahora se enfrenta a demonios.",
+        "type": "Anime",
+        "episodes": [
+            {
+                "episodeNumber": 1,
+                "title": "capítulo 1",
+                "url": "https://archive.org/download/chainsaw-man-latino-/Chainsaw%20Man%20Latino%2001.mp4"
+            },
+            {
+                "episodeNumber": 2,
+                "title": "capítulo 2",
+                "url": "https://archive.org/download/chainsaw-man-latino-/Chainsaw%20Man%20Latino%2002.mp4"
+            },
+            {
+                "episodeNumber": 3,
+                "title": "capítulo 3",
+                "url": "https://archive.org/download/chainsaw-man-latino-/Chainsaw%20Man%20Latino%2003.mp4"
+            },
+            {
+                "episodeNumber": 4,
+                "title": "capítulo 4",
+                "url": "https://archive.org/download/chainsaw-man-latino-/Chainsaw%20Man%20Latino%2004.mp4"
+            },
+            {
+                "episodeNumber": 5,
+                "title": "capítulo 5",
+                "url": "https://archive.org/download/chainsaw-man-latino-/Chainsaw%20Man%20Latino%2005.mp4"
+            },
+            {
+                "episodeNumber": 6,
+                "title": "capítulo 6",
+                "url": "https://archive.org/download/chainsaw-man-latino-/Chainsaw%20Man%20Latino%2006.mp4"
+            },
+            {
+                "episodeNumber": 7,
+                "title": "capítulo 7",
+                "url": "https://archive.org/download/chainsaw-man-latino-/Chainsaw%20Man%20Latino%2007.mp4"
+            },
+            {
+                "episodeNumber": 8,
+                "title": "capítulo 8",
+                "url": "https://archive.org/download/chainsaw-man-latino-/Chainsaw%20Man%20Latino%2008.mp4"
+            },
+            {
+                "episodeNumber": 9,
+                "title": "capítulo 9",
+                "url": "https://archive.org/download/chainsaw-man-latino-/Chainsaw%20Man%20Latino%2009.mp4"
+            },
+            {
+                "episodeNumber": 10,
+                "title": "capítulo 10",
+                "url": "https://archive.org/download/chainsaw-man-latino-/Chainsaw%20Man%20Latino%2010.mp4"
+            },
+            {
+                "episodeNumber": 11,
+                "title": "capítulo 11",
+                "url": "https://archive.org/download/chainsaw-man-latino-/Chainsaw%20Man%20Latino%2011.mp4"
+            },
+            {
+                "episodeNumber": 12,
+                "title": "capítulo 12",
+                "url": "https://archive.org/download/chainsaw-man-latino-/Chainsaw%20Man%20Latino%2012.mp4"
+            }
+
+        ]
+    },
+    {
+        "id": 3,
+        "animeId": "League-of-Legends",
+        "title": "League of Legends",
+        "image": "https://www.infobae.com/resizer/v2/6J7LSLIP2VGFVIY4ZINY3D6PBY.jpg?auth=5841088aa46abee3d952aee38bc39e88759f807bdf73c549820c580f6d784e78&smart=true&width=350&height=197&quality=85",
+        "description": "vi y jinx se enfrentan a un enemigo en común.",
+        "type": "Anime",
+        "episodes": [
+            {
+                "episodeNumber": 1,
+                "title": "capítulo 1",
+                "url": "https://ia804602.us.archive.org/30/items/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-01.mp4"
+            },
+            {
+                "episodeNumber": 2,
+                "title": "capítulo 2",
+                "url": "https://ia904602.us.archive.org/30/items/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-02.mp4"
+            },
+            {
+                "episodeNumber": 3,
+                "title": "capítulo 3",
+                "url": "https://ia804602.us.archive.org/30/items/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-03.mp4"
+            },
+            {
+                "episodeNumber": 4,
+                "title": "capítulo 4",
+                "url": "https://ia804602.us.archive.org/30/items/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-04.mp4"
+            },
+            {
+                "episodeNumber": 5,
+                "title": "capítulo 5",
+                "url": "https://ia804602.us.archive.org/30/items/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-05.mp4"
+            },
+            {
+                "episodeNumber": 6,
+                "title": "capítulo 6",
+                "url": "https://ia804602.us.archive.org/30/items/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-06.mp4"
+            },
+            {
+                "episodeNumber": 7,
+                "title": "capítulo 7",
+                "url": "https://ia804602.us.archive.org/30/items/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-07.mp4"
+            },
+            {
+                "episodeNumber": 8,
+                "title": "capítulo 8",
+                "url": "https://ia904602.us.archive.org/30/items/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-08.mp4"
+            },
+            {
+                "episodeNumber": 9,
+                "title": "capítulo 9",
+                "url": "https://ia804602.us.archive.org/30/items/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-09.mp4"
+            }
+        ]
+    }
+]
