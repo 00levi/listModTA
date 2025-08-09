@@ -144,5 +144,55 @@
                 "url": "https://ia804602.us.archive.org/30/items/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-09.mp4"
             }
         ]
+    },
+    {
+        "id": 4,
+        "animeId": "One-Piece-Netflix",
+        "title": "One Piece",
+        "image": "https://www.ecartelera.com/images/noticias/fotos/66100/66155/1.jpg",
+        "description": "Luffy y sus companeros navegan con el objetivo de llegar al one pice enfrentandose a piratas y gobiernos.",
+        "type": "Anime",
+        "episodes": [
+            {
+                "episodeNumber": 1,
+                "title": "capítulo 1",
+                "url": "https://ia600508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_01.mp4"
+            },
+            {
+                "episodeNumber": 2,
+                "title": "capítulo 2",
+                "url": "https://ia800508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_02.mp4"
+            },
+            {
+                "episodeNumber": 3,
+                "title": "capítulo 3",
+                "url": "https://ia600508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_03.mp4"
+            },
+            {
+                "episodeNumber": 4,
+                "title": "capítulo 4",
+                "url": "https://ia800508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_04.mp4"
+            },
+            {
+                "episodeNumber": 5,
+                "title": "capítulo 5",
+                "url": "https://ia600508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_05.mp4"
+            },
+            {
+                "episodeNumber": 6,
+                "title": "capítulo 6",
+                "url": "https://ia600508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_06.mp4"
+            },
+            {
+                "episodeNumber": 7,
+                "title": "capítulo 7",
+                "url": "https://ia800508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_07.mp4"
+            },
+            {
+                "episodeNumber": 8,
+                "title": "capítulo 8",
+                "url": "https://ia800508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_08.mp4"
+            }
+        ]
     }
 ]
