@@ -194,5 +194,20 @@
                 "url": "https://ia800508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_08.mp4"
             }
         ]
+    },
+    {
+        "id": 4,
+        "animeId": "Konosuba-Movie",
+        "title": "Konosuba Movie",
+        "image": "https://gaminguardian.com/wp-content/uploads/2019/05/Kono-Subarashii-Sekai-ni-Shukufuku-o-Kurenai-Densetsu-anime-pel%C3%ADcula-estreno-julio-2019-01.jpg",
+        "description": "kazuma y sus companeras tienen aventuras peligrosas y mucha mala suerte",
+        "type": "Anime",
+        "episodes": [
+            {
+                "episodeNumber": 1,
+                "title": "Konosuba la Pelicula",
+                "url": "https://ia600504.us.archive.org/33/items/k-0n-9-lkrea/K0n9Lkrea.ia.mp4"
+            }
+        ]
     }
 ]
