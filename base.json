@@ -86,6 +86,21 @@
     },
     {
         "id": 5,
+        "animeId": "corazones-de-acero",
+        "title": "Hombre en llamas",
+        "image": "Corazones de acero",
+        "description": "Un comandante de tanque deberá tomar decisiones muy difíciles mientras él y su equipo luchan en Alemania en 1945.",
+        "type": "Anime",
+        "episodes": [
+            {
+                "episodeNumber": 1,
+                "title": "Corazones de acero",
+                "url": "https://ia803207.us.archive.org/3/items/corazones-de-acero/Corazones%20de%20acero.mp4"
+            }
+        ]
+    },
+    {
+        "id": 5,
         "animeId": "Wonka",
         "title": "Wonka",
         "image": "https://images.squarespace-cdn.com/content/v1/6145a7b457c18a3bdc94fef6/547498b2-1233-4e6f-8144-c6a8e61159de/Wonka-2023-Review.jpeg",
