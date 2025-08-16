@@ -31,6 +31,46 @@
     },
     {
         "id": 3,
+        "animeId": "Rocky",
+        "title": "Rocky",
+        "image": "https://static.wikia.nocookie.net/doblaje/images/f/f8/Rocky-saga-bluray.jpg/revision/latest?cb=20160802021450&path-prefix=es",
+        "description": "La saga de películas (Rocky) narra la historia de Rocky Balboa, un boxeador italoamericano de clase baja que, a través de perseverancia y determinación, logra alcanzar sus sueños tanto en el ámbito deportivo como en el personal",
+        "type": "Anime",
+        "episodes": [
+            {
+                "episodeNumber": 1,
+                "title": "Rocky",
+                "url": "https://ia904608.us.archive.org/2/items/inseparables-2016/Rocky%20Balboa%28Audio%20Latino%29.mp4"
+            },
+            {
+                "episodeNumber": 2,
+                "title": "Rocky 2",
+                "url": "https://archive.org/download/inseparables-2016/Rocky%202%28Latino%29.mp4"
+            },
+            {
+                "episodeNumber": 3,
+                "title": "Rocky 3",
+                "url": "https://ia804608.us.archive.org/2/items/inseparables-2016/Rocky%203%28Latino%20HD%29.ia.mp4"
+            },
+            {
+                "episodeNumber": 4,
+                "title": "Rocky 4",
+                "url": "https://ia904608.us.archive.org/2/items/inseparables-2016/Rocky%204%28Latino%29.ia.mp4"
+            },
+            {
+                "episodeNumber": 5,
+                "title": "Rocky 5",
+                "url": "https://dn721602.ca.archive.org/0/items/inseparables-2016/Rocky%205%28La%20Ultima%20Pelea%29.ia.mp4"
+            },
+            {
+                "episodeNumber": 6,
+                "title": "Rocky 6",
+                "url": "https://ia904608.us.archive.org/2/items/inseparables-2016/Rocky%206%28Latino%29.mp4"
+            },
+        ]
+    },
+    {
+        "id": 4,
         "animeId": "Wonka",
         "title": "Wonka",
         "image": "https://images.squarespace-cdn.com/content/v1/6145a7b457c18a3bdc94fef6/547498b2-1233-4e6f-8144-c6a8e61159de/Wonka-2023-Review.jpeg",
@@ -45,7 +85,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 5,
         "animeId": "One-Piece-Netflix",
         "title": "One Piece",
         "image": "https://www.ecartelera.com/images/noticias/fotos/66100/66155/1.jpg",
@@ -95,7 +135,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 6,
         "animeId": "Konosuba-Movie",
         "title": "Konosuba Movie",
         "image": "https://gaminguardian.com/wp-content/uploads/2019/05/Kono-Subarashii-Sekai-ni-Shukufuku-o-Kurenai-Densetsu-anime-pel%C3%ADcula-estreno-julio-2019-01.jpg",
@@ -110,7 +150,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": 7,
         "animeId": "Naruto",
         "title": "Naruto (Español Latino y subtitulado a partir del cap 333)",
         "image": "https://i.pinimg.com/originals/fb/d5/08/fbd5088a4d046381c72709328d8beac9.jpg",
@@ -3635,7 +3675,7 @@
         ]
     },
      {
-        "id": 7,
+        "id": 8,
         "animeId": "Hulk-vs",
         "title": "Hulk vs ... (Español Latino)",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/86bdaff754999d42ce51a4318765ce93f2413d4ba51d5412b45d1f31366099fe.jpg",
@@ -3655,7 +3695,7 @@
         ]
     },
      {
-        "id": 8,
+        "id": 9,
         "animeId": "Chainsaw-Man-Latino",
         "title": "Chainsaw Man Latino",
         "image": "https://images-cdn.ubuy.com.ar/63850479f1aad178ea2fbe42-chainsaw-man-poster-print-october-2022.jpg",
@@ -3726,7 +3766,7 @@
         ]
     },
     {
-        "id": 9,
+        "id": 10,
         "animeId": "League-of-Legends",
         "title": "League of Legends",
         "image": "https://www.infobae.com/resizer/v2/6J7LSLIP2VGFVIY4ZINY3D6PBY.jpg?auth=5841088aa46abee3d952aee38bc39e88759f807bdf73c549820c580f6d784e78&smart=true&width=350&height=197&quality=85",
