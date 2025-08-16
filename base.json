@@ -87,8 +87,8 @@
     {
         "id": 5,
         "animeId": "corazones-de-acero",
-        "title": "Hombre en llamas",
-        "image": "Corazones de acero",
+        "title": "Corazones de acero",
+        "image": "https://pics.filmaffinity.com/Corazones_de_acero-473533562-large.jpg",
         "description": "Un comandante de tanque deberá tomar decisiones muy difíciles mientras él y su equipo luchan en Alemania en 1945.",
         "type": "Anime",
         "episodes": [
