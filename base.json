@@ -3874,6 +3874,22 @@
                 "url": "https://ia804602.us.archive.org/30/items/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-09.mp4"
             }
         ]
+    },
+     {
+        "id": 11,
+        "animeId": "Las-Guerreras-K-Pop",
+        "title": "Las Guerreras K Pop",
+        "image": "https://akamai.sscdn.co/uploadfile/letras/playlists/b/d/4/8/bd485628b5fd4b34927e90a440526396.jpg",
+        "description": "sigue la doble vida del grupo de K-pop Huntr/x (Rumi, Mira y Zoey), quienes en secreto son cazadoras de demonios que usan sus poderes y habilidades para proteger el mundo de las amenazas sobrenaturales.",
+        "type": "Anime",
+        "episodes": [
+        {
+            "episodeNumber": 1,
+            "title": "Las Guerreras K Pop",
+            "url": "https://ia600903.us.archive.org/35/items/1920x-1080-las-guerreras-k-pop/1920x1080-Las%20guerreras%20k-pop.ia.mp4"
+        }
+        }
+        ]
     }
 
 ]
