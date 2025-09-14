@@ -121,16 +121,16 @@
     },
     {
         "id": 7,
-        "animeId": "Wonka",
-        "title": "Wonka",
-        "image": "https://images.squarespace-cdn.com/content/v1/6145a7b457c18a3bdc94fef6/547498b2-1233-4e6f-8144-c6a8e61159de/Wonka-2023-Review.jpeg",
-        "description": "La historia se centrará específicamente en un joven Willy Wonka y en cómo conoció a los Oompa-Loompas en una de sus primeras aventuras.",
+        "animeId": "Full-Metal-Jacket",
+        "title": "Full Metal Jacket",
+        "image": "https://uauposters.com.br/media/catalog/product/cache/1/small_image/333x500/9df78eab33525d08d6e5fb8d27136e95/8/9/897820220526-uau-posters-full-metal-jacket-nascido-para-matar-stanley-kubrick-filmes-2.jpg",
+        "description": "narra la historia de reclutas de la guerra de Vietnam. La película se divide en dos partes, mostrando el cruel entrenamiento militar para deshumanizar a los jóvenes y convertirlos en soldados, seguido por la brutalidad del combate en la ciudad de Hue.",
         "type": "Anime",
         "episodes": [
             {
                 "episodeNumber": 1,
-                "title": "Wonka",
-                "url": "https://ia600900.us.archive.org/2/items/c-5c-6ce-5e-0560cb-62ff-3bc-117361e-9ad-5-mp-4/238166--56a2d33a-882d-4804-823d-d0fe0fb3335a--cgpu--2019829-1fichier.mp4"
+                "title": "Full Metal Jacket",
+                "url": "https://ia801801.us.archive.org/31/items/cuadernillo-mov-sociales-web/tex27.mp4"
             }
         ]
     },
