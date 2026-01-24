@@ -136,6 +136,21 @@
     },
     {
         "id": 8,
+        "animeId": "Mision-de-rescate-2",
+        "title": "Mision de rescate",
+        "image": "https://api.comunidad.fan/web/uploads/news/6969/0-desktop.webp?1687875184",
+        "description": "un mercenario curtido contratado para rescatar al hijo secuestrado de un capo de la droga en Dhaka, Bangladesh. Enfrenta peligros extremos, traiciones y intensos combates para salvar al joven.",
+        "type": "Anime",
+        "episodes": [
+            {
+                "episodeNumber": 1,
+                "title": "Mision de rescate 2",
+                "url": "https://dn720306.ca.archive.org/0/items/180934-539a-60DE-F-5EF-482B-A-589-EB-2478B-7B-846-FCPN-1366090-Uptobox/180934--539a60de-f5ef-482b-a589-eb2478b7b846--fcpn--1366090-uptobox.ia.mp4"
+            }
+        ]
+    },
+    {
+        "id": 9,
         "animeId": "One-Piece-Netflix",
         "title": "One Piece",
         "image": "https://www.ecartelera.com/images/noticias/fotos/66100/66155/1.jpg",
@@ -185,7 +200,7 @@
         ]
     },
     {
-        "id": 9,
+        "id": 10,
         "animeId": "Konosuba-Movie",
         "title": "Konosuba Movie",
         "image": "https://gaminguardian.com/wp-content/uploads/2019/05/Kono-Subarashii-Sekai-ni-Shukufuku-o-Kurenai-Densetsu-anime-pel%C3%ADcula-estreno-julio-2019-01.jpg",
@@ -200,7 +215,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": 11,
         "animeId": "Naruto",
         "title": "Naruto (Español Latino y subtitulado a partir del cap 333)",
         "image": "https://i.pinimg.com/originals/fb/d5/08/fbd5088a4d046381c72709328d8beac9.jpg",
@@ -3725,7 +3740,7 @@
         ]
     },
      {
-        "id": 11,
+        "id": 12,
         "animeId": "Hulk-vs",
         "title": "Hulk vs ... (Español Latino)",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/86bdaff754999d42ce51a4318765ce93f2413d4ba51d5412b45d1f31366099fe.jpg",
@@ -3750,7 +3765,7 @@
         ]
     },
      {
-        "id": 12,
+        "id": 13,
         "animeId": "Chainsaw-Man-Latino",
         "title": "Chainsaw Man Latino",
         "image": "https://images-cdn.ubuy.com.ar/63850479f1aad178ea2fbe42-chainsaw-man-poster-print-october-2022.jpg",
@@ -3821,7 +3836,7 @@
         ]
     },
     {
-        "id": 13,
+        "id": 14,
         "animeId": "League-of-Legends",
         "title": "League of Legends",
         "image": "https://www.infobae.com/resizer/v2/6J7LSLIP2VGFVIY4ZINY3D6PBY.jpg?auth=5841088aa46abee3d952aee38bc39e88759f807bdf73c549820c580f6d784e78&smart=true&width=350&height=197&quality=85",
@@ -3876,7 +3891,7 @@
         ]
     },
      {
-        "id": 14,
+        "id": 15,
         "animeId": "Las-Guerreras-K-Pop",
         "title": "Las Guerreras K Pop",
         "image": "https://akamai.sscdn.co/uploadfile/letras/playlists/b/d/4/8/bd485628b5fd4b34927e90a440526396.jpg",
@@ -3891,7 +3906,7 @@
         ]
     },
     {
-        "id": 15,
+        "id": 16,
         "animeId": "Big-Time-Rush",
         "title": "Big Time Rush Temp 1",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/a28d57c2b8b454d3e529221f120196f8ca5d1ea946e29283179b7045f001cc0e.jpg",
@@ -4001,7 +4016,7 @@
         ]
     },
     {
-        "id": 16,
+        "id": 17,
         "animeId": "Big-Time-Rush",
         "title": "Big Time Rush Temp 2",
         "image": "https://static.wikia.nocookie.net/bigtimerush/images/9/98/Big_Time_Rush-season_2.jpg/revision/latest?cb=20141101145617&path-prefix=es",
@@ -4156,7 +4171,7 @@
         ]
     },
     {
-        "id": 17,
+        "id": 18,
         "animeId": "Big-Time-Rush",
         "title": "Big Time Rush Temp 3",
         "image": "https://static.wikia.nocookie.net/bigtimerush/images/5/5d/Sason3.jpg/revision/latest?cb=20141102142041&path-prefix=es",
@@ -4226,7 +4241,7 @@
         ]
     },
     {
-        "id": 18,
+        "id": 19,
         "animeId": "Big-Time-Rush",
         "title": "Big Time Rush Temp 4",
         "image": "https://resizing.flixster.com/Nd-XtknEXJwSJhhh61kZruGOCuw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9403847_b_h9_ac.jpg",
@@ -4301,7 +4316,7 @@
         ]
     },
     {
-        "id": 19,
+        "id": 20,
         "animeId": "Harry-Potter",
         "title": "Harry Potter",
         "image": "https://i0.wp.com/fandompelicula.com/wp-content/uploads/2021/03/132192643_236603507906254_110719857282452619_n.jpg?resize=1000%2C1000&ssl=1",
