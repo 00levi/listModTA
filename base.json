@@ -4349,6 +4349,41 @@
                 "url": "https://dn720406.ca.archive.org/0/items/potter.-08/POTTER.08.mp4"
             }
         ]
+    },
+    {
+        "id": 21,
+        "animeId": "the-walking-dead",
+        "title": "The Walking Dead",
+        "image": "",
+        "description": "The Walking dead preuebas de links",
+        "type": "Anime",
+        "episodes": [
+            {
+                "episodeNumber": 1,
+                "title": "episodes",
+                "url": "https://nuuuppp.sbs/wathcpremium/iJ2sAxwVz8yb8WnBu3jz3AXnt04qB03jz36MIqoNoP0dP3jz3fbc?h="
+            },
+            {
+                "episodeNumber": 2,
+                "title": "Harry Potter y la cámara secreta",
+                "url": "https://ia902302.us.archive.org/8/items/potter.-02/POTTER.02.mp4"
+            },
+            {
+                "episodeNumber": 3,
+                "title": "Harry Potter y el prisionero de Azkaban",
+                "url": "https://archive.org/download/potter.-03/POTTER.03.mp4"
+            },
+            {
+                "episodeNumber": 4,
+                "title": "Harry Potter y el cáliz de fuego",
+                "url": "https://dn720006.ca.archive.org/0/items/potter.-04/POTTER.04.mp4"
+            },
+            {
+                "episodeNumber": 5,
+                "title": "Harry Potter y las reliquias de la muerte: Parte 2",
+                "url": "https://dn720406.ca.archive.org/0/items/potter.-08/POTTER.08.mp4"
+            }
+        ]
     }
 
 ]
