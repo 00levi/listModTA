@@ -151,6 +151,36 @@
     },
     {
         "id": 9,
+        "animeId": "La-lista-terminal-Lobo-Negro",
+        "title": "La lista terminal: Lobo Negro",
+        "image": "https://cinemaeafins.com.br/trilhas/wp-content/uploads/2025/08/trilha-sonora-de-a-lista-terminal-lobo-negro-2025.webp",
+        "description": "narra la transformación del SEAL Ben Edwards (Taylor Kitsch) en operador paramilitar de la CIA.",
+        "type": "Anime",
+        "episodes": [
+            {
+                "episodeNumber": 1,
+                "title": "episode 1",
+                "url": "https://ia601808.us.archive.org/19/items/thtrmnlstdrkwlf-64ft-1x-1/Thtrmnlstdrkwlf64ft1x1.ia.mp4"
+            },
+            {
+                "episodeNumber": 2,
+                "title": "episode 2",
+                "url": ""
+            },
+            {
+                "episodeNumber": 3,
+                "title": "episode 3",
+                "url": ""
+            },
+            {
+                "episodeNumber": 4,
+                "title": "episode 4",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "id": 10,
         "animeId": "One-Piece-Netflix",
         "title": "One Piece",
         "image": "https://www.ecartelera.com/images/noticias/fotos/66100/66155/1.jpg",
@@ -200,7 +230,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": 11,
         "animeId": "Konosuba-Movie",
         "title": "Konosuba Movie",
         "image": "https://gaminguardian.com/wp-content/uploads/2019/05/Kono-Subarashii-Sekai-ni-Shukufuku-o-Kurenai-Densetsu-anime-pel%C3%ADcula-estreno-julio-2019-01.jpg",
@@ -215,7 +245,7 @@
         ]
     },
     {
-        "id": 11,
+        "id": 12,
         "animeId": "Naruto",
         "title": "Naruto (Español Latino y subtitulado a partir del cap 333)",
         "image": "https://i.pinimg.com/originals/fb/d5/08/fbd5088a4d046381c72709328d8beac9.jpg",
@@ -3740,7 +3770,7 @@
         ]
     },
      {
-        "id": 12,
+        "id": 13,
         "animeId": "Hulk-vs",
         "title": "Hulk vs ... (Español Latino)",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/86bdaff754999d42ce51a4318765ce93f2413d4ba51d5412b45d1f31366099fe.jpg",
@@ -3765,7 +3795,7 @@
         ]
     },
      {
-        "id": 13,
+        "id": 14,
         "animeId": "Chainsaw-Man-Latino",
         "title": "Chainsaw Man Latino",
         "image": "https://images-cdn.ubuy.com.ar/63850479f1aad178ea2fbe42-chainsaw-man-poster-print-october-2022.jpg",
@@ -3836,7 +3866,7 @@
         ]
     },
     {
-        "id": 14,
+        "id": 15,
         "animeId": "League-of-Legends",
         "title": "League of Legends",
         "image": "https://www.infobae.com/resizer/v2/6J7LSLIP2VGFVIY4ZINY3D6PBY.jpg?auth=5841088aa46abee3d952aee38bc39e88759f807bdf73c549820c580f6d784e78&smart=true&width=350&height=197&quality=85",
@@ -3891,7 +3921,7 @@
         ]
     },
      {
-        "id": 15,
+        "id": 16,
         "animeId": "Las-Guerreras-K-Pop",
         "title": "Las Guerreras K Pop",
         "image": "https://akamai.sscdn.co/uploadfile/letras/playlists/b/d/4/8/bd485628b5fd4b34927e90a440526396.jpg",
@@ -3906,7 +3936,7 @@
         ]
     },
     {
-        "id": 16,
+        "id": 17,
         "animeId": "Big-Time-Rush",
         "title": "Big Time Rush Temp 1",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/a28d57c2b8b454d3e529221f120196f8ca5d1ea946e29283179b7045f001cc0e.jpg",
@@ -4016,7 +4046,7 @@
         ]
     },
     {
-        "id": 17,
+        "id": 18,
         "animeId": "Big-Time-Rush",
         "title": "Big Time Rush Temp 2",
         "image": "https://static.wikia.nocookie.net/bigtimerush/images/9/98/Big_Time_Rush-season_2.jpg/revision/latest?cb=20141101145617&path-prefix=es",
@@ -4171,7 +4201,7 @@
         ]
     },
     {
-        "id": 18,
+        "id": 19,
         "animeId": "Big-Time-Rush",
         "title": "Big Time Rush Temp 3",
         "image": "https://static.wikia.nocookie.net/bigtimerush/images/5/5d/Sason3.jpg/revision/latest?cb=20141102142041&path-prefix=es",
@@ -4241,7 +4271,7 @@
         ]
     },
     {
-        "id": 19,
+        "id": 20,
         "animeId": "Big-Time-Rush",
         "title": "Big Time Rush Temp 4",
         "image": "https://resizing.flixster.com/Nd-XtknEXJwSJhhh61kZruGOCuw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9403847_b_h9_ac.jpg",
@@ -4316,7 +4346,7 @@
         ]
     },
     {
-        "id": 20,
+        "id": 21,
         "animeId": "Harry-Potter",
         "title": "Harry Potter",
         "image": "https://i0.wp.com/fandompelicula.com/wp-content/uploads/2021/03/132192643_236603507906254_110719857282452619_n.jpg?resize=1000%2C1000&ssl=1",
@@ -4347,36 +4377,6 @@
                 "episodeNumber": 5,
                 "title": "Harry Potter y las reliquias de la muerte: Parte 2",
                 "url": "https://dn720406.ca.archive.org/0/items/potter.-08/POTTER.08.mp4"
-            }
-        ]
-    },
-    {
-        "id": 21,
-        "animeId": "the-walking-dead",
-        "title": "The Walking Dead",
-        "image": "",
-        "description": "The Walking dead preuebas de links",
-        "type": "Anime",
-        "episodes": [
-            {
-                "episodeNumber": 1,
-                "title": "episodes",
-                "url": "https://stream-3991-48-215.pkcdn.org/liohppxojyikkfn2mddp2yamhgkx7tfdzsfivwbqwf3trwouwnmqo5ps2y/v.mp4"
-            },
-            {
-                "episodeNumber": 2,
-                "title": "episodes 2",
-                "url": "https://cloud-s8091-48-224.spcdn.cc/h75aq66dg3ekalhulprdaoo7jz4yl3dqe63tr5gi7ect5mni6qqpj7ttaewq/v.mp4"
-            },
-            {
-                "episodeNumber": 3,
-                "title": "episodes 3",
-                "url": ""
-            },
-            {
-                "episodeNumber": 4,
-                "title": "episodes 4",
-                "url": "https://str41.vidoza.net/vod/v2/nvl4jdnziyfeieno3xhdxhhwmcm36mz3nxbcr5quaqd6pe6pk2zhvze3i6usmb25kq/v.mp4"
             }
         ]
     }
