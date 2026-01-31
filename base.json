@@ -165,17 +165,32 @@
             {
                 "episodeNumber": 2,
                 "title": "episode 2",
-                "url": ""
+                "url": "https://ia801808.us.archive.org/19/items/thtrmnlstdrkwlf-64ft-1x-1/Thtrmnlstdrkwlf64ft1x2.ia.mp4"
             },
             {
                 "episodeNumber": 3,
                 "title": "episode 3",
-                "url": ""
+                "url": "https://ia801808.us.archive.org/19/items/thtrmnlstdrkwlf-64ft-1x-1/Thtrmnlstdrkwlf64ft1x3.ia.mp4"
             },
             {
                 "episodeNumber": 4,
                 "title": "episode 4",
-                "url": ""
+                "url": "https://ia801808.us.archive.org/19/items/thtrmnlstdrkwlf-64ft-1x-1/Thtrmnlstdrkwlf64ft1x4.ia.mp4"
+            },
+            {
+                "episodeNumber": 5,
+                "title": "episode 5",
+                "url": "https://ia601808.us.archive.org/19/items/thtrmnlstdrkwlf-64ft-1x-1/Thtrmnlstdrkwlf64ft1x5.ia.mp4"
+            },
+            {
+                "episodeNumber": 6,
+                "title": "episode 6",
+                "url": "https://ia601808.us.archive.org/19/items/thtrmnlstdrkwlf-64ft-1x-1/Thtrmnlstdrkwlf64ft1x6.ia.mp4"
+            },
+            {
+                "episodeNumber": 7,
+                "title": "episode 7",
+                "url": "https://ia801808.us.archive.org/19/items/thtrmnlstdrkwlf-64ft-1x-1/Thtrmnlstdrkwlf64ft1x7.ia.mp4"
             }
         ]
     },
